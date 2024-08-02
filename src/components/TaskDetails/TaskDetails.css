@@ -1,0 +1,25 @@
+/* components/TaskDetails/TaskDetails.css */
+.task-details {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .task-details input,
+  .task-details textarea,
+  .task-details select {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .task-details button {
+    padding: 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  

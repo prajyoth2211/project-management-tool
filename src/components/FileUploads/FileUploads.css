@@ -1,0 +1,14 @@
+.file-uploads {
+    margin-top: 10px;
+  }
+  
+  .uploaded-files {
+    margin-top: 10px;
+  }
+  
+  .file {
+    background-color: #f4f5f7;
+    padding: 5px;
+    border-radius: 3px;
+    margin-bottom: 5px;
+  }

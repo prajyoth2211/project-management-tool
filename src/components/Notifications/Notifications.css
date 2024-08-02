@@ -1,0 +1,13 @@
+/* components/Notifications/Notifications.css */
+.notifications {
+    margin: 20px 0;
+  }
+  
+  .notification {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 5px;
+  }
+  
